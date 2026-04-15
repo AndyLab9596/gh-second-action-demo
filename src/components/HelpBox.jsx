@@ -1,5 +1,5 @@
 import './HelpBox.css';
-
+// add some comment
 function HelpBox({ title, text }) {
   return (
     <article className="help-box">
